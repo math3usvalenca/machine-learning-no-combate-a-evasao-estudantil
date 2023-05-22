@@ -3,7 +3,7 @@
 A Análise Exploratória de Dados (AED) faz parte de todo projeto de Machine Learning. O trabalho se fundamenta na técnica de **Knowledge Discovery in Databases** (KDD), ou Descoberta de Conhecimento
 em Banco de dados, que é um processo que nos permite extrair conhecimentos úteis a partir de Bancos de dados, onde uma de suas etapas consiste na **mineração dos dados** (Data Mining) sendo ela o ponto central do KDD.
 
-<a href="https://nbviewer.org/github/math3usvalenca/machine-learning-no-combate-a-evasao-estudantil/blob/main/analise-de-dados-estudantis/AED.ipynb" >:rocket: Consulte este link par visualizar o notebook de maneira precisa com todos os gráficos :rocket:</a>
+<a href="https://nbviewer.org/github/math3usvalenca/machine-learning-no-combate-a-evasao-estudantil/blob/main/analise-de-dados-estudantis/AED.ipynb" target="_blank" >:rocket: Consulte este link par visualizar o notebook de maneira precisa com todos os gráficos :rocket:</a>
 
 Etapas até se chegar na análise dos dados:
 
